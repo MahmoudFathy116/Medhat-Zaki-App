@@ -1,4 +1,4 @@
-# masterstudy_app
+# MedhatZaki
 
 A new Flutter project.
 
